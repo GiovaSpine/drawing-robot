@@ -8,7 +8,7 @@
 #define ASSENTE 100000.0
 
 
-class Manipulator;  // definita in ManipulatorClass
+class Manipulator;
 
 
 class CNCstepper {
